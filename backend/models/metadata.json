@@ -1,0 +1,9 @@
+{
+  "classes": [
+    "legitimate",
+    "phishing"
+  ],
+  "training_rows": 30,
+  "test_rows": 10,
+  "warning": "Demo dataset only. Replace with a larger verified dataset."
+}

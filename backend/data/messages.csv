@@ -1,0 +1,41 @@
+text,label
+"Your bank account will be blocked today. Verify your details immediately using this link.",phishing
+"URGENT: Your account is suspended. Click here to restore access now.",phishing
+"Congratulations you won a prize. Claim your reward by entering your bank details.",phishing
+"Your parcel is waiting. Pay a small delivery fee using this link.",phishing
+"Your KYC has expired. Update your details immediately to avoid account closure.",phishing
+"Your electricity will be disconnected tonight. Pay the pending bill now.",phishing
+"Work from home job offer. Pay registration fee to confirm your selection.",phishing
+"Your UPI account needs verification. Share your PIN to receive the refund.",phishing
+"Final warning: verify your password immediately or your account will be deleted.",phishing
+"You have won a lottery. Send your personal information to claim the money.",phishing
+"Unusual login detected. Confirm your password using the link below.",phishing
+"Your credit card is blocked. Click the link to reactivate it.",phishing
+"Immediate action required: claim your free gift today.",phishing
+"Your bank KYC update is pending. Submit your account details now.",phishing
+"Payment failed. Open this link and enter your card number to retry.",phishing
+"Your package delivery failed. Pay the redelivery charge immediately.",phishing
+"Selected for a high salary job. Pay an interview processing fee now.",phishing
+"Your account will expire today. Login and verify your details.",phishing
+"Refund is ready. Enter your UPI PIN to receive the money.",phishing
+"Security alert: click here to unlock your account immediately.",phishing
+"Please find the meeting agenda attached for tomorrow.",legitimate
+"Your appointment is confirmed for Monday at 10 AM.",legitimate
+"Thank you for your purchase. Your order has been shipped.",legitimate
+"Your OTP for signing in is 482913. Do not share it with anyone.",legitimate
+"Hi, are we still meeting at the library this afternoon?",legitimate
+"Your electricity bill payment was successful. Thank you.",legitimate
+"The project review is scheduled for Friday. Please attend.",legitimate
+"Your package has been delivered. Thank you for shopping with us.",legitimate
+"Please submit your assignment before the deadline.",legitimate
+"Your monthly bank statement is now available in the official app.",legitimate
+"Your interview is scheduled for tomorrow at 2 PM.",legitimate
+"Thanks for registering for the college workshop.",legitimate
+"Your payment receipt is attached to this email.",legitimate
+"Reminder: the team presentation starts at 11 AM.",legitimate
+"Your password was changed successfully. Contact support if this was not you.",legitimate
+"Your library book is due next Wednesday.",legitimate
+"Your order has been received and is being processed.",legitimate
+"Please review the notes I shared in our class group.",legitimate
+"Your salary has been credited to your account.",legitimate
+"Happy birthday! Hope you have a wonderful day.",legitimate
